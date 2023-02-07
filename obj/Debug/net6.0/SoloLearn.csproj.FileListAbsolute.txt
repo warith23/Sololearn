@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\SoloLearn\bin\Debug\net6.0\SoloLearn.exe
+C:\Users\HP\Desktop\SoloLearn\bin\Debug\net6.0\SoloLearn.deps.json
+C:\Users\HP\Desktop\SoloLearn\bin\Debug\net6.0\SoloLearn.runtimeconfig.json
+C:\Users\HP\Desktop\SoloLearn\bin\Debug\net6.0\SoloLearn.dll
+C:\Users\HP\Desktop\SoloLearn\bin\Debug\net6.0\SoloLearn.pdb
+C:\Users\HP\Desktop\SoloLearn\obj\Debug\net6.0\SoloLearn.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SoloLearn\obj\Debug\net6.0\SoloLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\SoloLearn\obj\Debug\net6.0\SoloLearn.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SoloLearn\obj\Debug\net6.0\SoloLearn.AssemblyInfo.cs
+C:\Users\HP\Desktop\SoloLearn\obj\Debug\net6.0\SoloLearn.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SoloLearn\obj\Debug\net6.0\SoloLearn.dll
+C:\Users\HP\Desktop\SoloLearn\obj\Debug\net6.0\refint\SoloLearn.dll
+C:\Users\HP\Desktop\SoloLearn\obj\Debug\net6.0\SoloLearn.pdb
+C:\Users\HP\Desktop\SoloLearn\obj\Debug\net6.0\SoloLearn.genruntimeconfig.cache
+C:\Users\HP\Desktop\SoloLearn\obj\Debug\net6.0\ref\SoloLearn.dll
